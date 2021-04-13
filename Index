@@ -1,0 +1,28 @@
+
+
+<!DOCTYPE html>
+
+
+<html>
+
+<head>
+<link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+
+
+<body>
+
+<h1> TRANSITIONAL CSS3 HOMEWORK </h1>
+
+<nav>
+<a href="#" class= button1> Button 1 </a>
+  
+<a href="#" class= button2> Button 2 </a>
+  
+<a href="#" class= button3> Button 3 </a>
+
+</nav>
+
+</body> 
+</html>
+<a href="#" class= "bcc">
